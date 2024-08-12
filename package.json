@@ -1,0 +1,14 @@
+{
+  "name": "techChallenge",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "github:aws/aws-sdk-js",
+    "axios": "^0.25.0",
+    "console-read-write": "^0.1.1",
+    "convert-time": "^0.3.0",
+    "inquirer": "^8.2.0",
+    "oracledb": "^5.3.0",
+    "request-promise": "^4.2.6",
+    "word-wrap": "^1.2.3"
+  }
+}
